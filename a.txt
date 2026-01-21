@@ -1,6 +1,0 @@
-uci
-isready
-position startpos moves e2e4 d7d5 e4e5
-startpos moves e2e4 d7d5 e4e5
-rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w
-go wtime 600000 btime 598999 winc 0 binc 0
