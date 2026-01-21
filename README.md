@@ -37,3 +37,4 @@ Currently not implemented:
 - quiescence search
 - castling (handled only in `makeMove()`, not in the move generator)
 - en passant captures
+  
