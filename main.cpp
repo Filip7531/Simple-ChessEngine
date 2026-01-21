@@ -98,7 +98,7 @@ pair<double,Move>IterativeDeepening(Pos a){
         V.push_back(alpha_beta(a, depth));
         if(V.back().first >= inf / 2)break;
         if(START + TimeForMove <  Now())break;
-        ofstream fout("RES.txt"); 
+        ofstream fout("RES.txt"); /
         fout << V.back().first << " "  << " " << D << " "
           << MoveToUCI(V[1].second)
          << endl;
