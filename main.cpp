@@ -111,5 +111,5 @@ pair<double,Move>IterativeDeepening(Pos a){
 }
 // --- Main ---
 int main() {
-    //nothing
+    //write comunication
 }
